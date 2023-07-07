@@ -1,10 +1,10 @@
 # Hi, I'm Hridhya Paul! 👋
 
-I am a passionate web developer with a strong background in Textile Engineering. My journey in web development began after graduating from Daffodil International University in 2020, where I worked as a research and development officer at a denim washing plant for two years.
+I am a passionate web developer with a strong interest in design, creativity, and the visual aspect of technology. I have been self-learning web development and focusing on honing my skills in various web technologies.
 
 ## 💻 Web Development Enthusiast
 
-Web development has always fascinated me, as it combines my love for design, creativity, and the visual aspects of technology. Over the past six months, I have been dedicating myself to self-learning and honing my skills in various web technologies.
+Web development has always captivated me, and I find joy in creating engaging and user-friendly web experiences. Over the past six months, I have dedicated myself to learning and mastering a range of web technologies.
 
 ### 🚀 Skills and Technologies
 
