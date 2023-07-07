@@ -10,8 +10,10 @@ Web development has always captivated me, and I find joy in creating engaging an
 
 - HTML
 - CSS
+- Tailwind
+- Bootstrap
 - JavaScript
-- React
+- React.js
 - Node.js
 - Express.js
 - MongoDB
